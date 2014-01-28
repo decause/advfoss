@@ -22,11 +22,9 @@
           <a href="${instructor['coderwall']}"><img alt="Endorse decause on Coderwall" src="https://api.coderwall.com/decause/endorsecount.png" /></a>
         % endif
     </div>
-    <!-- Twitter stream goes here
     <div class="col-md-8">
         <h2>Twitterverse</h2>
         <a class="twitter-timeline"  href="${instructor['twitter']}"  data-widget-id="369925299250544640">Tweets by @Remy_D</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
-    -->
 </div>
