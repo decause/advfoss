@@ -1,0 +1,25 @@
+course:
+    name: ADVFOSS
+    desc: The RIT Production Studio Course
+    place: RIT
+    start: 2014-01-27
+    end: 2014-05-17
+    times: "Tues & Thurs 2:00pm - 3:15pm"
+    course: "4085.580.03"
+    location: "Orange Hall (ORN)-1380"
+
+instructor:
+    name: Remy DeCausemaker
+    email: remydcsi@rit.edu
+    avatar: http://www.libravatar.org/user/5d9d0a14af042b2f7877ab58de9b7702ca29bb9d34155dc58eff4ff6509d562c.png
+    ohloh: https://www.ohloh.net/accounts/40757
+    coderwall: https://coderwall.com/decause
+    twitter: https://twitter.com/Remy_D
+    office:
+        location: The MAGIC Center - SIH 1680
+        hours: "Tuesday + Thursday , 1:00-2:00pm"
+    links:
+        blog: http://foss.rit.edu/blog/decause
+        linkedin: http://linkedin.com/in/decause
+        github: http://github.com/decause
+        opensource: http://opensource.com/users/remyd
