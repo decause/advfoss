@@ -75,10 +75,26 @@ to re-enter the virtual environment.
 On Windows
 ++++++++++
 
-At the windows command prompt::
+Install distribute (a pre-requisite for pip) by downloading
+`distribute_setup.py http://python-distribute.org/distribute_setup.py`_ and
+running::
 
- $ virtualenv --no-site-packages -p python2 advfossenv
- $ advfossenv/Scripts/activate.bat
+ $ python distribute_setup.py
+
+Install pip by downloading
+`get_pip.py https://raw.github.com/pypa/pip/master/contrib/get-pip.py`_ and
+running::
+
+ $ python get-pip.py
+
+Finally, install virtualenv and virtualenvwrapper with::
+
+ $ pip install virtualenv
+ $ pip install virtualenvwrapper-win
+
+You can now setup a virtualenv::
+
+ $ mkvirtualenv advfoss
 
 In msysGit or git-bash::
 
