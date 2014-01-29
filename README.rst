@@ -63,7 +63,7 @@ Once you have virtualenv installed, you should be able to run::
  $ virtualenv --no-site-packages -p python2 advfossenv
  $ . advfossenv/bin/activate
  $ cd advfoss
- $ python setup.py develop
+ $ pip install -r requirements.txt
 
 On Windows
 ++++++++++
@@ -80,7 +80,7 @@ In msysGit or git-bash::
 Back in the windows command prompt::
 
  $ cd advfoss
- $ python setup.py develop
+ $ pip install requirements.txt
 
 
 Building the "Documentation"
