@@ -52,9 +52,11 @@ If you're using a distro like Fedora or Ubuntu, you should try this instead::
 
  Fedora:
  $ sudo yum install python-virtualenv
+ $ sudo pip install virtualenvwrapper
 
  Ubuntu/Debian:
  $ sudo apt-get install python-virtualenv
+ $ sudo pip install virtualenvwrapper
 
 Once you have virtualenv installed, you should be able to run::
 
