@@ -62,10 +62,15 @@ Once you have virtualenv installed, you should be able to run::
 
  $ cd code
  $ git clone git@github.com:YOUR_USERNAME/advfoss.git
- $ virtualenv --no-site-packages -p python2 advfossenv
- $ . advfossenv/bin/activate
+ $ mkvirtualenv advfoss
  $ cd advfoss
  $ python setup.py develop
+
+When you want to work on it later, run::
+ 
+ $ workon advfoss
+
+to re-enter the virtual environment.
 
 On Windows
 ++++++++++
