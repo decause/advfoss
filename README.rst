@@ -48,6 +48,12 @@ If you don't have virtualenv installed yet, try::
 
  $ sudo easy_install virtualenv virtualenvwrapper
 
+Then add::
+
+ source /usr/local/bin/virtualenvwrapper.sh
+
+to your `.bashrc` file.
+
 If you're using a distro like Fedora or Ubuntu, you should try this instead::
 
  Fedora:
@@ -57,6 +63,12 @@ If you're using a distro like Fedora or Ubuntu, you should try this instead::
  Ubuntu/Debian:
  $ sudo apt-get install python-virtualenv
  $ sudo pip install virtualenvwrapper
+
+Setup virtualenvwrapper by adding::
+
+ source /usr/bin/virtualenvwrapper.sh
+
+to your `.bashrc` file.
 
 Once you have virtualenv installed, you should be able to run::
 
