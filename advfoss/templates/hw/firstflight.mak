@@ -176,7 +176,7 @@ forge.
 <div>
     <h2>Patch the Course Project</h2>
     <p>Check out the source repository for this course; it’s hosted at
-    <a class="reference external" href="https://github.com/decause/hflossk">https://github.com/decause/hflossk</a>.</p>
+    <a class="reference external" href="https://github.com/decause/advfoss">https://github.com/decause/advfoss</a>.</p>
     <p>Inside the repository, we’ll keep an index of all the students in the course and metadata about them (you!).</p>
     <div class="alert alert-success">
         <h3 class="label label-success">Tasks:</h3>
@@ -187,7 +187,7 @@ forge.
             <li>Work through this <a
                 href="http://gitimmersion.com/index.html">git tutorial</a> if
             you don’t have any experience with git.</li>
-            <li>Fork <a href="https://github.com/decause/hflossk">the
+            <li>Fork <a href="https://github.com/decause/advfoss">the
                 repository</a> (link to <a
             href="http://help.github.com/fork-a-repo/">github help</a> on
         this).</li>
@@ -199,13 +199,10 @@ forge.
             <div class="alert alert-warning">
             <strong>BE WARNED</strong>: Your .yaml file must match the format *exactly* (meaning it is case and whitespace sensitive.)
             </div>
-            <div class="alert alert-warning">
-            <strong>CRUFTY</strong>: There is a <code>people.yaml</code> file in that directory.  It is a legacy hangover from older code.  Do not bother editing it.  It will actually make merges more difficult.
-            </div></li>
 
             <li>Once you've confirmed your .yaml file matches exactly, commit and push your changes to github, and issue a pull request.</li>
             <li>Once the patch is accepted upstream and pushed to production, this
-            should add your blog feed to the <a href="http://hfoss-fossrit.rhcloud.com/checkblogs">Participants</a> page.)</li>
+            should add your blog feed to the <a href="http://foss-advanced.rhcloud.com/checkblogs">Participants</a> page.)</li>
         </ul>
     </div>
 </div>
