@@ -1,7 +1,7 @@
 # Hi!  I'm Mansam.
 # samlucidi.com is down :(
-- blog: http://mansam.github.io/blog
-  feed: http://mansam.github.io/blog/feed.atom
+- blog: http://mansam.github.io/
+  feed: http://mansam.github.io/atom.xml
   forges:
     - http://github.com/mansam
     - http://bitbucket.org/slucidi
