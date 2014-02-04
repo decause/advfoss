@@ -145,7 +145,7 @@ and/or all of the above.
 
 <p>
 Code forges are service sites around which FOSS development orbits, some of
-the more popular sites are GitHub, bitbucket, sourceforge, and launchpad.
+the more popular sites are GitHub, Bitbucket, sourceforge, and launchpad.
 </p>
 
 <p>
