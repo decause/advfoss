@@ -1,9 +1,10 @@
 # Hi!  I am logic_error
 - blog: http://blog.coldencullen.com/
-  feed: blog.coldencullen.com/rss/
+  feed: http://blog.coldencullen.com/rss/
   forges:
     - https://github.com/ColdenCullen
     - https://bitbucket.org/ColdenCullen
   irc: logic_error
   name: Colden Cullen
   rit_dce: cpc1668
+  hackprop1: http://blog.coldencullen.com/oculus-d-rift-project-proposal/
