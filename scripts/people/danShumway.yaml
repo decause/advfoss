@@ -1,5 +1,5 @@
 # Hi!  I coppied this from threebean
-- blog: http://blog.latinforimagination.com/category/foss/advanced_foss/
+- blog: http://blog.latinforimagination.com
   feed: http://blog.latinforimagination.com/category/advanced_foss/feed/
   forges:
     - https://github.com/danShumway
@@ -7,3 +7,4 @@
   irc: danShumway
   name: Daniel Shumway
   rit_dce: drs7453
+  project1: http://blog.latinforimagination.com/what-im-up-to-timescrub-js/
