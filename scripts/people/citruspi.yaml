@@ -1,0 +1,9 @@
+# Hey, I'm citruspi
+- blog: http://advfoss.mihirsingh.com/
+  feed: http://advfoss.mihirsingh.com/atom.xml
+  forges:
+    - http://github.com/citruspi
+    - http://bitbucket.org/citruspi
+  irc: citruspi
+  name: Mihir Singh
+  rit_dce: mxs0000

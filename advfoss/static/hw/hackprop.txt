@@ -1,0 +1,16 @@
+Proposal
+    - Title of Hack
+    - Short Description of Hack
+    - Software Libraries Needed (e.g. python packages, npm, ruby gems, etc...)
+    - Upstream Distribution Repository (e.g. pypi.python.org)
+    - Open Hardware Needed (list kit compenents used, any extra components you may need, if they are on on hand, or when they will be.)
+    - Team Members (If Applicable. With Roles. Non-RIT Contact Email address required.)
+    - Upstream Mentors  (Name/Contact/Role. Be sure to ASK THEM FIRST)
+    - Project Milestones (REMEMBER You have 2 weeks of development, 1 week testing/docs, and one week packaging distribution!)
+    - Anticipated License (Must be OSI approved, and compatible with the license(s) other libraries listed above.)
+    - Any other details I should know?
+
+Submitting Proposal
+    - Post this proposal to your development blog
+    - add the post url to your .yaml file with the entry "hackpropX" where X is the number of the proposal (e.g. 1, 2, or 3)
+    - send a pull request.
