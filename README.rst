@@ -28,32 +28,67 @@ On Linux/Mac OS X
 
 If you don't have virtualenv installed yet, try::
 
- $ sudo easy_install virtualenv virtualenvwrapper
+ $ sudo pip install virtualenv virtualenvwrapper
+
+Then add::
+
+ source /usr/local/bin/virtualenvwrapper.sh
+
+to your `.bashrc` file.
 
 If you're using a distro like Fedora or Ubuntu, you should try this instead::
 
  Fedora:
  $ sudo yum install python-virtualenv
+ $ sudo pip install virtualenvwrapper
 
  Ubuntu/Debian:
  $ sudo apt-get install python-virtualenv
+ $ sudo pip install virtualenvwrapper
+
+Setup virtualenvwrapper by adding::
+
+ source /usr/bin/virtualenvwrapper.sh
+
+to your `.bashrc` file.
 
 Once you have virtualenv installed, you should be able to run::
 
  $ cd code
  $ git clone git@github.com:YOUR_USERNAME/advfoss.git
- $ virtualenv --no-site-packages -p python2 advfossenv
- $ . advfossenv/bin/activate
+ $ mkvirtualenv advfoss
  $ cd advfoss
- $ python setup.py develop
+ $ pip install -r requirements.txt
+
+When you want to work on it later, run::
+ 
+ $ workon advfoss
+
+to re-enter the virtual environment.
 
 On Windows
 ++++++++++
 
-At the windows command prompt::
+Install distribute (a pre-requisite for pip) by downloading
+`distribute_setup.py http://python-distribute.org/distribute_setup.py`_ and
+running::
 
- $ virtualenv --no-site-packages -p python2 advfossenv
- $ advfossenv/Scripts/activate.bat
+ $ python distribute_setup.py
+
+Install pip by downloading
+`get_pip.py https://raw.github.com/pypa/pip/master/contrib/get-pip.py`_ and
+running::
+
+ $ python get-pip.py
+
+Finally, install virtualenv and virtualenvwrapper with::
+
+ $ pip install virtualenv
+ $ pip install virtualenvwrapper-win
+
+You can now setup a virtualenv::
+
+ $ mkvirtualenv advfoss
 
 In msysGit or git-bash::
 
@@ -62,7 +97,7 @@ In msysGit or git-bash::
 Back in the windows command prompt::
 
  $ cd advfoss
- $ python setup.py develop
+ $ pip install requirements.txt
 
 
 Building the "Documentation"
@@ -96,7 +131,7 @@ In order to do that, first make sure you have your virtualenv activated.
 
 Being certain of that, in the root directory, simply run::
 
- $ python run.py
+ $ python app.py
 
 You should see a success message such as::
 
