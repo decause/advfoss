@@ -1,8 +1,8 @@
 <%inherit file="../master.mak" />
 
 <div class="jumbotron">
-    <h1>HACKPROP</h1>
-    <p>Proposing Your Hacks</p>
+    <h1>CommCont</h1>
+    <p>Community Contributions</p>
 </div>
 
 <div>
