@@ -1,6 +1,8 @@
 advfoss
 ========
 
+Find us at: http://foss-advanced.rhcloud.com/
+
 Wat?
 ----
 This repository is an experiment to use Flask, Mako, and Bootstrap to make a
