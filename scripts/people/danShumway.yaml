@@ -1,6 +1,6 @@
 # Hi!  I coppied this from threebean
-- blog: http://blog.latinforimagination.com
-  feed: http://blog.latinforimagination.com/category/advanced_foss/feed/
+- blog: http://bridgeurl.com/danshumway-blogs
+  feed: http://www.rssmix.com/u/3886352/rss.xml
   forges:
     - https://github.com/danShumway
     - http://bitbucket.org/danShumway
@@ -8,3 +8,5 @@
   name: Daniel Shumway
   rit_dce: drs7453
   hackprop1: http://blog.latinforimagination.com/what-im-up-to-timescrub-js/
+  commcont1: http://danshumwayfoss.blogspot.com/2014/03/getting-started-with-contribution.html
+  hackprop2: http://danshumwayfoss.blogspot.com/2014/03/open-source-proposal-vanalyzejs.html
