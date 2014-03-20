@@ -1,11 +1,10 @@
-#
-Ryan Stush - 4th year NMID Student and FOSSboxer
-- blog: http://foss.rit.edu/blog/41940
-  feed: httlp://foss.rit.edu/blog/41940/feed
+# Ryan Stush - 4th year NMID Student and FOSSboxer
+- blog: http://csi.csh.rit.edu/blog/41940
+  feed: http://csi.csh.rit.edu/blog/41940/feed
   forges:
     - https://github.com/ramstush
   irc: brush
   name: Ryan Stush
   rit_dce: ras8502
-  hackprop1: http://foss.rit.edu/node/626
-  commcont1: http://fossrit.edu/node/269
+  hackprop1: http://csi.csh.rit.edu/node/626
+  commcont1: http://csi.csh.rit.edu/node/269
