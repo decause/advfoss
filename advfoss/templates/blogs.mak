@@ -28,8 +28,7 @@
             <li><a target="_blank" href="${forge_link}">${forge_link}</a></li>
           % endfor
 
-          <!--
-          <% keys = ['quiz1', 'litreview1', 'bugfix', 'commarch', 'teamproposal', 'litreview2', 'finalpost'] %>
+          <% keys = ['hackprop1', 'commcont1', 'hack1', 'hackprop2'] %>
           % for key in keys:
               % if student.get(key):
                 <li><a target="_blank" href="${student[key]}">${key}</a></li>
@@ -37,7 +36,6 @@
                 <li class="redtext">${key}?</li>
               % endif
           % endfor
-          -->
 
         </ul>
         <!-- <p><a class="btn" href="#">View details &raquo;</a></p> -->
