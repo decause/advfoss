@@ -1,6 +1,6 @@
 # Ryan Stush - 4th year NMID Student and FOSSboxer
 - blog: http://csi.csh.rit.edu/blog/41940
-  feed: http://csi.csh.rit.edu/blog/41940/feed
+  feed: httlp://csi.csh.rit.edu/blog/41940/feed
   forges:
     - https://github.com/ramstush
   irc: brush
@@ -8,3 +8,5 @@
   rit_dce: ras8502
   hackprop1: http://csi.csh.rit.edu/node/626
   commcont1: http://csi.csh.rit.edu/node/269
+  postmortem: http://csi.csh.rit.edu/node/MondayMorningsPostMortem
+  hackprop2: http://csi.csh.rit.edu/node/hackprop2
