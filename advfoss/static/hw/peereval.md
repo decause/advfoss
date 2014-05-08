@@ -1,11 +1,12 @@
 # ADVFOSS Peer Evaluation
 
-Please complete one for each member of your team besides yourself. You want to
-attempt to be objective, but you also need to have an opinion that you can
-support with evidence. Part of your grade is going to be based not only on how
-your rate your peers, but how well you rate your peers i.e. are your ratings of
-your peers thoughtful and well justified. Take this seriously; you will be
-asked to do this in the professional world from time to time.
+Please complete the following questions for **each** member of your team
+besides yourself. You want to attempt to be objective, but you also need to
+have an opinion that you can support with evidence. Part of your grade is going
+to be based not only on how your rate your peers, but how /well/ you rate your
+peers i.e. are your ratings of your peers thoughtful and well justified. Take
+this seriously; you will be asked to do this in the professional world from
+time to time. Please limit your responses to 200-1000 words per teammate.
 
 **Project Name**:
 
@@ -27,10 +28,14 @@ project (please include the milestone list)?
 6. Are you satisfied with the work that the student being rated did?  Explain
 why or why not.
 
-7. Please rate this person’s contribution on a scale from 1 to 100.  A 59 or
+7. What skills did they pick up this semester?
+
+8. What skills should they develop further?
+
+9. Please rate this person’s contribution on a scale from 1 to 100.  A 59 or
 below would represent a failing grade,  60-69 a “D,” 70-79 a “C,” 80-89 a
 “B,”90-100 an “A.”
 
-8. Please include a brief explanation of why you think the person deserves
+10. Please include a brief explanation of why you think the person deserves
 his/her score, particularly if it might seem to contradict anything you have
 indicated above.
