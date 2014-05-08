@@ -8,11 +8,7 @@
 <div class="alert alert-info">
     <h2>Team Evaluations <span class="label label-primary">15%</span></h2>
     <ul class="simple">
-        <li>200-1000 words per teammate. 
-        <li>Indicate what they did to contribute to the project.</li>
-        <li>What skills did they pick up this semester?</li> 
-        <li>What skills should they develop further?</li> 
-        <li>Give a numeric score (1-10) for them and justify it.</li> 
+        <li><a target="_blank" href="/static/hw/peereval.md">Fill out this <code>Peer Evaulation Form</code></a></li>
         <li>These must be emailed to the <a target="_blank"
         href="mailto:remydcsi@rit.edu">professor</a> They will remain
         private.</li>
