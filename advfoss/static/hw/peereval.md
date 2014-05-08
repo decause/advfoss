@@ -1,4 +1,4 @@
-# HFOSS Peer Evaluation
+# ADVFOSS Peer Evaluation
 
 Please complete one for each member of your team besides yourself. You want to
 attempt to be objective, but you also need to have an opinion that you can
@@ -27,10 +27,10 @@ project (please include the milestone list)?
 6. Are you satisfied with the work that the student being rated did?  Explain
 why or why not.
 
-7. Please rate this person’s contribution on a scale from 1 to 100.  A 59 or below
-would represent a failing grade,  60-69 a “D,” 70-79 a “C,” 80-89 a “B,”90-100
-an “A.”
+7. Please rate this person’s contribution on a scale from 1 to 100.  A 59 or
+below would represent a failing grade,  60-69 a “D,” 70-79 a “C,” 80-89 a
+“B,”90-100 an “A.”
 
-8. Please include a brief explanation of why you think the person deserves his/her
-score, particularly if it might seem to contradict anything you have indicated
-above. 
+8. Please include a brief explanation of why you think the person deserves
+his/her score, particularly if it might seem to contradict anything you have
+indicated above.
