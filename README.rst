@@ -126,6 +126,9 @@ quickstart many common webapps and frameworks on openshift, or just hack
 together your own with the DIY cartridge. This is not something you will be
 required to do, but is possible to pick up during the course.
 
+Running the site locally
+----------------------------
+
 To be careful, you should run the server locally (on your machine) to check
 that whatever modifications you made to the files actually renders the way you want.
 
