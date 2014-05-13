@@ -8,8 +8,8 @@
 <div>
     <ol class="lecture_list alert alert-info">
             <ul>
-            <h3>Opensource.com</h3>
             <li>
+            <h3>Opensource.com</h3>
                 <ul>
                     <li><a target="_blank" href="http://opensource.com/how-conduct-interview-opensourcecom">Conducting an Interview</a></li>
                     <li><a target="_blank" href="http://opensource.com/article-entering-and-editing-guidelines">Submitting and Editing Articles</a></li>
@@ -26,6 +26,18 @@
             <h3>Bugfix</h3>
                 <ul>
                     <li><a target="_blank" href="/hw/bugfix">Bugfix</a></li>
+                </ul>
+            </li>
+            <li>
+            <h3>Graphics</h3>
+                <ul>
+                    <li><a target="_blank" href="http://openclipart.org/">OpenClipart.org</a></li>
+                </ul>
+            </li>
+            <li>
+            <h3>Audio</h3>
+                <ul>
+                    <li><a target="_blank" href="http://www.freesound.org/">FreeSound.org</a></li>
                 </ul>
             </li>
             <li>
