@@ -41,14 +41,13 @@ course will have three tightly scoped project releases (or "hacks".)
 <tbody><tr><th colspan="2"><h3>Release Cycle Breakdown</h3></th>
     </tr><tr><td>Week 1</td><td>Ideation and Proposal. Community Contribution Assigned.</td></tr>
     <tr><td>Week 2</td><td>Development. Community Contribution Due.</td></tr>
-    <tr><td>Week 3</td><td>Development. Lit Review Assigned.</td></tr>
-    <tr><td>Week 4</td><td>Testing and Documentaiton. Lit Review Due.</td></tr>
+    <tr><td>Week 3</td><td>Development</td></tr>
+    <tr><td>Week 4</td><td>Testing and Documentaiton</td></tr>
     <tr><td>Week 5</td><td>Packaging and Release</td></tr>
 </tbody></table>
 </div>
 
-<p>Each of these cycles will include a literature review, and a community
-contribution assignments.</p>
+<p>Each cycle will include a community contribution assignments, in addition to each hack.</p>
 
 </div>
 
@@ -95,14 +94,16 @@ contribution assignments.</p>
 </tr>
 </thead>
 <tbody>
+<!--Next Time
 <tr><td>Literature Reviews</td>
 <td class="center padded"><span class="label label-warning">10%</span></td>
 </tr>
+-->
 <tr><td>Team Peer Assessment</td>
-<td class="center padded"><span class="label label-info">15%</span></td>
+<td class="center padded"><span class="label label-info">20%</span></td>
 </tr>
 <tr><td>Completed Projects</td>
-<td class="center padded"><span class="label label-info">15%</span></td>
+<td class="center padded"><span class="label label-info">20%</span></td>
 </tr>
 <tr><td>Project Presentations</td>
 <td class="center padded"><span class="label label-success">20%</span></td>
