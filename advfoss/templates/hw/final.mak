@@ -5,6 +5,7 @@
     <p>TBA</p>
 </div>
 
+<!--Not this time around, but def in the future
 <div class="alert alert-info">
     <h2>Team Evaluations <span class="label label-primary">15%</span></h2>
     <ul class="simple">
@@ -14,6 +15,7 @@
         private.</li>
     </ul>
 </div>
+-->
 
 <div class="alert alert-info">
     <h2>Final Presentation <span class="label label-primary">20%</span></h2>
