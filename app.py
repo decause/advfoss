@@ -1,3 +1,4 @@
+# Hack to restart server
 import os
 
 from advfoss.site import app
