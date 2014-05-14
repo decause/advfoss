@@ -2,7 +2,7 @@
 
 <div class="jumbotron">
     <h1>FINAL</h1>
-    <p>TBA</p>
+    <p>May 22nd, 2014 from 2:45PM - 4:45PM in ORN-1380</p>
 </div>
 
 <div class="alert alert-info">
