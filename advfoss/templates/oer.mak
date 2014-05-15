@@ -11,7 +11,11 @@
       <ul class="list-unstyled">
         %for res in res_list:
           <li>
-            <a href="/static/${res_type.lower()}/${res}"> ${res}</a>
+            % if res.startswith('http'):
+                <a href="${res}">${res}</a>
+            % else:
+                <a href="/static/${res_type.lower()}/${res}"> ${res}</a>
+            % endif
           </li>
         %endfor
       </ul>
