@@ -1,3 +1,0 @@
-Useful Raspberry Pi Links:
-
-Official Quick Start Guide: http://www.raspberrypi.org/help/quick-start-guide/
