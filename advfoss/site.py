@@ -128,7 +128,7 @@ def oer():
     resources['Decks'] = os.listdir(os.path.join(base_dir, 'static', 'decks'))
     resources['Books'] = os.listdir(os.path.join(base_dir, 'static', 'books'))
     resources['Challenges'] = os.listdir(os.path.join(base_dir, 'static', 'challenges'))
-    resources['RaspberryPi'] = os.listdir(os.path.join(base_dir, 'static', 'raspberrypi'))
+    resources['RaspberryPi'] = ['http://threebean.org']
 
     return render_template('oer.mak', name='mako', resources=resources)
 
