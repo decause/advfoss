@@ -1,9 +1,8 @@
 <%inherit file="master.mak"/>
 
 <div class="jumbotron">
-<h1>Hello, world!</h1>
-<p>This is a wonderful experiment using Twitter Boostrap, Flask, and Mako to make awesome.</p>
-<p><a href="#" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+<h1>About This Site</h1>
+<p>This spirit of free and open source culture runs deep in ADVFOSS. Everything is open source, from the lectures to the syllabus to this website. Below we list the technology stack this site uses.</p>
 </div>
 
 <div class="row">

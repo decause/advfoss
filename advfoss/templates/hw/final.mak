@@ -56,7 +56,7 @@
     <h2>Finished Project <span class="label label-primary">20%</span></h2>
     <ul>
     <li>Your grade here will be derived from the following factors (adjusted
-    for progress over the quarter):</li>
+    for progress over the semester):</li>
     <ul>
         <li>Is the code clearly licensed under an OSI-compatible license?</li>
         <li>Does your source repository contain clear written instructions for

@@ -1,6 +1,6 @@
-# Hi!  I am ChrisKnepper
-- blog: http://beta.chrisknepper.com/category/foss/
-  feed: http://beta.chrisknepper.com/category/foss/feed/
+# Hi! I am ChrisKnepper
+- blog: http://beta.chrisknepper.com/tag/afoss_post/
+  feed: http://beta.chrisknepper.com/tag/afoss_post/feed/
   forges:
     - http://github.com/chrisknepper
   irc: ChrisKnepper
@@ -10,5 +10,11 @@
   commcont1: http://beta.chrisknepper.com/2014/03/helping-out-without-code/
   hack1: http://beta.chrisknepper.com/2014/03/introducing-entropy-a-pythonic-wallpaper-rater/
   hackprop2: http://beta.chrisknepper.com/2014/03/advanced-foss-project-2-proposal/
-  commcont2: http://beta.chrisknepper.com/2014/05/open-source-interview/
-  commcont3: http://beta.chrisknepper.com/2014/05/introducing-catbug-a-threaded-http-request-library/
+  commcont2: http://beta.chrisknepper.com/2014/05/introducing-catbug-a-threaded-http-request-library/
+  hack2: http://beta.chrisknepper.com/2014/05/introducing-in-glass-a-temperature-monitoring-and-logging-utility/
+  lightningtalk1: https://docs.google.com/presentation/d/1mH0QgzZKVazCb-UFEWgMTs_4yy9toaOR9le2bYndP5Q/
+  lightningtalk2: https://docs.google.com/presentation/d/1s_dczvrD2ZfZ_mCRnJzcYVTLXqg9EBYR0-3ESb8AMrg/
+  hackathon1: http://beta.chrisknepper.com/2014/04/a-bar-and-a-camp-walk-into-a-university/
+  hackathon2: http://beta.chrisknepper.com/2014/04/pax-your-bags/
+  hackathon3: http://beta.chrisknepper.com/2014/05/homestretch-runner/
+  hackathon4: http://beta.chrisknepper.com/2014/05/when-kids-want-to-learn/
