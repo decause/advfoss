@@ -1,11 +1,11 @@
 course:
     name: ADVFOSS
-    desc: The RIT Seminar in IGM Course
+    desc: "This is the website for ADVFOSS, the Advanced Projects in Free/Open Source Development at RIT. Students develop tightly-scoped projects, also known as hacks, using open technologies and released under open licenses."
     place: RIT
     start: 2014-01-27
     end: 2014-05-17
     times: "Tues & Thurs 2:00pm - 3:15pm"
-    course: "4085.580.03"
+    course: "IGME-590"
     location: "Orange Hall (ORN)-1380"
 
 instructor:

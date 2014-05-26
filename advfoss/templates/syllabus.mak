@@ -82,7 +82,7 @@ course will have three tightly scoped project releases (or "hacks".)
 <p>Assignments are due at 4:59pm of the day they are marked as due, to be useful in class.</p>
 <p>Late submissions will be deducted <span class="label label-danger">10%</span> per day they are late.</p>
 <hr class="docutils">
-<p>Your final grade for the quarter will be derived from the following weights.</p>
+<p>Your final grade for the semester will be derived from the following weights.</p>
 <table class="docutils" border="1">
 <colgroup>
 <col style="width: 80%;">
@@ -179,7 +179,7 @@ course will have three tightly scoped project releases (or "hacks".)
     <h2>Finished Project <span class="label label-primary">20%</span></h2>
     <ul>
     <li>Your grade here will be derived from the following factors (adjusted
-    for progress over the quarter):</li>
+    for progress over the semester):</li>
     <ul>
         <li>Is the code clearly licensed under an OSI-compatible license?</li>
         <li>Does your source repository contain clear written instructions for
