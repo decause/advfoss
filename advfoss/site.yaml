@@ -1,6 +1,6 @@
 course:
     name: ADVFOSS
-    desc: "This is the website for ADVFOSS, the Advanced Projects in Free/Open Source Development at RIT. Students develop tightly-scoped projects, also known as hacks, using open technologies and released under open licenses."
+    desc: "RIT Advanced Projects Seminar where students develop tightly-scoped projects, released under Free/Open Source licenses."
     place: RIT
     start: 2014-01-27
     end: 2014-05-17
