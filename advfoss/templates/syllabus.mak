@@ -143,7 +143,7 @@ course will have three tightly scoped project releases (or "hacks".)
 -->
 
 <div class="alert alert-info">
-    <h2>Project Presentation <span class="label label-primary">20%</span></h2>
+    <h2>Project Presentation <span class="label label-primary">25%</span></h2>
     <ul>
         <li>Your presentations should last 10 minutes with another 5 minutes
         for discussion.</li>
@@ -178,7 +178,7 @@ course will have three tightly scoped project releases (or "hacks".)
 </div>
 
 <div class="alert alert-info">
-    <h2>Finished Project <span class="label label-primary">20%</span></h2>
+    <h2>Finished Project <span class="label label-primary">25%</span></h2>
     <ul>
     <li>Your grade here will be derived from the following factors (adjusted
     for progress over the semester):</li>
