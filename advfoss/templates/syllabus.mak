@@ -127,6 +127,7 @@ course will have three tightly scoped project releases (or "hacks".)
 
 <div class="section">
 <h2>Project Grading</h2>
+<!--Next Time Around
 <div class="alert alert-info">
     <h2>Team Evaluations <span class="label label-primary">15%</span></h2>
     <ul class="simple">
@@ -139,6 +140,7 @@ course will have three tightly scoped project releases (or "hacks".)
         private.</li>
     </ul>
 </div>
+-->
 
 <div class="alert alert-info">
     <h2>Project Presentation <span class="label label-primary">20%</span></h2>
