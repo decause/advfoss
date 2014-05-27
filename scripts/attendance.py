@@ -6,7 +6,7 @@ from BeautifulSoup import BeautifulSoup
 months = ["09", "10", "11", "12"]
 
 # Scrape the whole page
-page = urllib2.urlopen("http://yacht.rit.edu/meetings/rit-foss/2013/")
+page = urllib2.urlopen("http://yacht.rit.edu/meetings/rit-foss/2014/")
 bigSoup = BeautifulSoup(page)
 
 # Find all of the links
@@ -68,33 +68,21 @@ for link in html:
     # List of students in the class
 
     classDict = {
-        "AgitatedBadger": [],
-        "Akaleth": ["Akaleth|Class"],
         "ArcticSphinx": [],
-        "Fangy": [],
         "BeruBeruFunBot": [],
+        "brush": [],
         "ChrisKnepper": [],
-        "Consuuume": [],
-        "Destroyer675000": [],
-        "dudeman514": ["Dudeman514"],
+        "citruspi": [],
+        "danShumway": [],
         "ExplosiveHippo": [],
-        "Grub0": [],
-        "LinkSlayer64": ["XLS64|Lappy", "LS64"],
-        "Nolski": [],
-        "Obliv": ["Obliv|class"],
-        "Spectralshadow": ["Spectralshadow5"],
-        "TheOnlyTaters": [],
-        "Waterseas": [],
-        "Xethik": ["XethikClass"],
-        "edwfoss": [],
-        "PxlBuzzard": ["Pxl_Buzzard"],
-        "logic_error": [],
-        "danShumway": ["danShumway2"],
-        "emmix": [],
-        "gecko_": [],
+        "Fangy": [],
         "h2g2guy": [],
+        "logic_error": [],
+        "mansam": [],
+        "PxlBuzzard": ["Pxl_Buzzard"],
+        "qwertos": [],
+        "raimondi1337": [],
         "valeatory": [],
-        "zanarama": ["zanarama1"]
     }
 
     date = link.getText().split('.')[1]
