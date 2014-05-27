@@ -39,6 +39,9 @@
           % if student.get('hack2'):
           <li><a target="_blank" href="${student['hack2']}">hack2</a></li>
           % endif
+          % if student.get('hack3'):
+          <li><a target="_blank" href="${student['hack3']}">hack3</a></li>
+          % endif
 
 
         </ul>
