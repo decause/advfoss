@@ -1,7 +1,7 @@
 <%inherit file="master.mak"/>
 
 <%def name="title()">
-    Syllabus &mdash; The RIT Production Studio Course
+    Syllabus &mdash; The RIT Advanced Projects in FOSS Seminar Course
 </%def>
 
 <div class="jumbotron" id="syllabus">
@@ -31,8 +31,8 @@
 </ul>
 
 <p>At the heart of this course are 5-week release cycles. Unlike the RIT HFOSS
-course, that focuses on has <strong>one</strong> large team project, this
-course will have three tightly scoped project releases (or "hacks".)
+course, that focuses on <strong>one</strong> large team project, this course
+will have multiple tightly-scoped project releases (or "hacks".)
 </p>
 
 
@@ -42,7 +42,7 @@ course will have three tightly scoped project releases (or "hacks".)
     </tr><tr><td>Week 1</td><td>Ideation and Proposal. Community Contribution Assigned.</td></tr>
     <tr><td>Week 2</td><td>Development. Community Contribution Due.</td></tr>
     <tr><td>Week 3</td><td>Development</td></tr>
-    <tr><td>Week 4</td><td>Testing and Documentaiton</td></tr>
+    <tr><td>Week 4</td><td>Testing and Documentation</td></tr>
     <tr><td>Week 5</td><td>Packaging and Release</td></tr>
 </tbody></table>
 </div>
@@ -55,10 +55,10 @@ course will have three tightly scoped project releases (or "hacks".)
   <a class="headerlink" name="licensing"></a>
   <h2>Licensing</h2>
   <p>All code developed by students in the course must be licensed (by the student)
-  under any one of the <a class="" href="http://www.opensource.org/licenses/category">licenses approved by the open source initiative</a>.</p>
-  <p>Your code that you write is your <strong>code</strong>, with which you can do what you will;
-  true. However, if you’re unwilling to license code you write for an open source
-  course with an open source license, you may be in the wrong course.</p>
+  under any one of the <a class="" href="http://www.opensource.org/licenses/category">licenses approved by the Open Source Initiative</a>.</p>
+  <p>Your code that you write is <strong>your</strong> code, with which you can do what you will;
+  true. However, if you’re unwilling to license code you write for a Free/Open Source
+  course with a Free/Open Source license, you may be in the wrong course.</p>
 </div>
 
 
