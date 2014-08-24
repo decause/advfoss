@@ -2,10 +2,10 @@ course:
     name: ADVFOSS
     desc: "RIT Advanced Projects Seminar where students develop tightly-scoped projects, released under Free/Open Source licenses."
     place: RIT
-    start: 2014-01-27
-    end: 2014-05-17
-    times: "Tues & Thurs 2:00pm - 3:15pm"
-    course: "IGME-590"
+    start: 2014-08-25
+    end: 2014-12-10
+    times: "Tues & Thurs 5:00pm - 6:15pm"
+    course: "IGME-585"
     location: "Orange Hall (ORN)-1380"
 
 instructor:
@@ -17,7 +17,7 @@ instructor:
     twitter: https://twitter.com/Remy_D
     office:
         location: The MAGIC Center - SIH 1680
-        hours: "Tuesday + Thursday , 1:00-2:00pm"
+        hours: "Tuesday + Thursday , 3:30-4:30pm"
     links:
         blog: http://foss.rit.edu/blog/decause
         linkedin: http://linkedin.com/in/decause
