@@ -99,20 +99,24 @@ will have multiple tightly-scoped project releases (or "hacks".)
 <td class="center padded"><span class="label label-warning">10%</span></td>
 </tr>
 -->
+<!--
 <tr><td>Team Peer Assessments</td>
 <td class="center padded"><span class="label label-info">20%</span></td>
 </tr>
+-->
 <tr><td>Completed Projects</td>
-<td class="center padded"><span class="label label-success">20%</span></td>
+<td class="center padded"><span class="label label-success">50%</span></td>
 </tr>
+<!--
 <tr><td>Project Presentations</td>
 <td class="center padded"><span class="label label-success">20%</span></td>
 </tr>
+-->
 <tr><td>Community Contributions</td>
-<td class="center padded"><span class="label label-success">20%</span></td>
+<td class="center padded"><span class="label label-success">25%</span></td>
 </tr>
 <tr><td>FOSS Dev Practices (Blog posts, commits, tickets, IRC)</td>
-<td class="center padded"><span class="label label-success">20%</span></td>
+<td class="center padded"><span class="label label-success">25%</span></td>
 </tr>
 </tbody>
 </table>
