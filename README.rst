@@ -72,13 +72,13 @@ On Windows
 ++++++++++
 
 Install distribute (a pre-requisite for pip) by downloading
-`distribute_setup.py http://python-distribute.org/distribute_setup.py`_ and
+`distribute_setup.py <http://python-distribute.org/distribute_setup.py>`_ and
 running::
 
  $ python distribute_setup.py
 
 Install pip by downloading
-`get_pip.py https://raw.github.com/pypa/pip/master/contrib/get-pip.py`_ and
+`get_pip.py <https://raw.github.com/pypa/pip/master/contrib/get-pip.py>`_ and
 running::
 
  $ python get-pip.py
