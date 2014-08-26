@@ -229,7 +229,7 @@ in <a class="" href="/hw/firstflight"><em>Homework - First Flight</em></a>).</p>
 <div class="section">
   <a class="headerlink" name="lightning-talks-extra-credit"></a>
   <h2>Lightning Talks - Extra Credit</h2>
-<p>Every Wednesday for the first portion of class, any student has the opportunity
+<p>Every class for the first portion of class, any student has the opportunity
 to give a <code><a href="http://en.wikipedia.org/wiki/Lightning_Talk">lightning talk</a></code> on a
 topic of their chosing. Your lightning talk must be less than 5 minutes in
 length and must be at least remotely related to the course material.</p>
