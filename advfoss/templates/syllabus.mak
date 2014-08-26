@@ -99,22 +99,20 @@ will have multiple tightly-scoped project releases (or "hacks".)
 <td class="center padded"><span class="label label-warning">10%</span></td>
 </tr>
 -->
-<!--Next Time, again
-<tr><td>Team Peer Assessment</td>
+<tr><td>Team Peer Assessments</td>
 <td class="center padded"><span class="label label-info">20%</span></td>
 </tr>
--->
 <tr><td>Completed Projects</td>
-<td class="center padded"><span class="label label-success">25%</span></td>
+<td class="center padded"><span class="label label-success">20%</span></td>
 </tr>
 <tr><td>Project Presentations</td>
-<td class="center padded"><span class="label label-success">25%</span></td>
+<td class="center padded"><span class="label label-success">20%</span></td>
 </tr>
 <tr><td>Community Contributions</td>
-<td class="center padded"><span class="label label-success">25%</span></td>
+<td class="center padded"><span class="label label-success">20%</span></td>
 </tr>
 <tr><td>FOSS Dev Practices (Blog posts, commits, tickets, IRC)</td>
-<td class="center padded"><span class="label label-success">25%</span></td>
+<td class="center padded"><span class="label label-success">20%</span></td>
 </tr>
 </tbody>
 </table>
@@ -127,9 +125,8 @@ will have multiple tightly-scoped project releases (or "hacks".)
 
 <div class="section">
 <h2>Project Grading</h2>
-<!--Next Time Around
 <div class="alert alert-info">
-    <h2>Team Evaluations <span class="label label-primary">15%</span></h2>
+    <h2>Team Evaluations <span class="label label-primary">25%</span></h2>
     <ul class="simple">
         <li>200-1000 words per teammate.
         </li><li>Indicate what they did to contribute to the project.</li>
@@ -140,7 +137,6 @@ will have multiple tightly-scoped project releases (or "hacks".)
         private.</li>
     </ul>
 </div>
--->
 
 <div class="alert alert-info">
     <h2>Project Presentation <span class="label label-primary">25%</span></h2>
@@ -178,7 +174,7 @@ will have multiple tightly-scoped project releases (or "hacks".)
 </div>
 
 <div class="alert alert-info">
-    <h2>Finished Project <span class="label label-primary">25%</span></h2>
+    <h2>Finished Project <span class="label label-primary">50%</span></h2>
     <ul>
     <li>Your grade here will be derived from the following factors (adjusted
     for progress over the semester):</li>
