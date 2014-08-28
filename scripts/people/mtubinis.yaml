@@ -1,0 +1,8 @@
+- blog: http://mtubinisadvfoss.wordpress.com/
+  feed: http://en.mtubinisadvfoss.wordpress.com/feed/
+  forges:
+    - http://github.com/mstubinis/
+    - http://bitbucket.org/mstubinis
+  irc: mtubinis
+  name: Michael Tubinis
+  rit_dce: mst6119
