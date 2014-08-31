@@ -1,0 +1,7 @@
+- blog: https://fortnightblog.wordpress.com/
+  feed: https://fortnightblog.wordpress.com/feed/
+  forges:
+    - https://github.com/fortnight
+  irc: fortnight
+  name: Fernando Axel Ellis
+  rit_dce: fae6505
