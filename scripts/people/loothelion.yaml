@@ -1,16 +1,16 @@
-blog: http://gearchicken.com/blog/
-feed: http://gearchicken.com/blog/rss.xml
-forges:
-  - http://github.com/liam-middlebrook
-  - http://bitbucket.org/liam-middlebrook
-irc: loothelion
-name: Liam Middlebrook
-rit_dce: ljm2906
-bio: |
-  This is a long string of text
-  that I'm using as my personal biography on
-  the RIT ADVFOSS site
-github: liam-middlebrook
-twitter: liammiddlebrook
-coderwall: liam-middlebrook
-
+- blog: http://gearchicken.com/blog/
+  feed: http://gearchicken.com/blog/rss.xml
+  forges:
+    - http://github.com/liam-middlebrook
+    - http://bitbucket.org/liam-middlebrook
+  irc: loothelion
+  name: Liam Middlebrook
+  rit_dce: ljm2906
+  bio: |
+    This is a long string of text
+    that I'm using as my personal biography on
+    the RIT ADVFOSS site
+  github: liam-middlebrook
+  twitter: liammiddlebrook
+  coderwall: liam-middlebrook
+  hackprop0: 
