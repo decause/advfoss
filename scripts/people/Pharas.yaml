@@ -1,9 +1,9 @@
-# I'm a fourth year in GDD representing Texas
-blog: http://pharaskn.blogspot.com/
-feed: http://pharaskn.blogspot.com/feeds/posts/default 
-forges:
-  - https://github.com/Pharas
-irc: Pharas
-name: Brian Escriche
-rit_dce: bke2759
-hackprop0: http://pharaskn.blogspot.com/2014/08/back-to-foss.html
+  # I'm a fourth year in GDD representing Texas
+  blog: http://pharaskn.blogspot.com/
+  feed: http://pharaskn.blogspot.com/feeds/posts/default 
+  forges:
+    - https://github.com/Pharas
+  irc: Pharas
+  name: Brian Escriche
+  rit_dce: bke2759
+  hackprop0: http://pharaskn.blogspot.com/2014/08/back-to-foss.html
