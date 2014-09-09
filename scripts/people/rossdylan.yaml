@@ -1,5 +1,5 @@
 - blog: http://blog.helixoide.com/
-  feed: http://blog.helixoide.com/feed
+  feed: http://blog.helixoide.com/feed.xml
   forges:
     - http://github.com/rossdylan
   irc: rossdylan
