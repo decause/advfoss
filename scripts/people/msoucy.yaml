@@ -1,17 +1,17 @@
 # Hey, it's msoucy!
-blog: http://msoucy.me
-feed: http://msoucy.me/feeds/tag/advfoss.atom.xml
-forges:
-  - http://github.com/msoucy
-  - http://bitbucket.org/msoucy
-  - http://code.msoucy.me
-irc: msoucy
-name: Matt Soucy
-rit_dce: mas5997
-bio: |
+- blog: http://msoucy.me
+  feed: http://msoucy.me/feeds/tag/advfoss.atom.xml
+  forges:
+    - http://github.com/msoucy
+    - http://bitbucket.org/msoucy
+    - http://code.msoucy.me
+  irc: msoucy
+  name: Matt Soucy
+  rit_dce: mas5997
+  bio: |
     Fourth-year Computer Science major, and Captain of the FOSS Box
-github: msoucy
-twitter: msoucy93
-coderwall: msoucy
-hackprop0: http://msoucy.me/2014/09/advfoss-hack1/
-commcont0: http://msoucy.me/2014/09/advfoss-cc0/
+  github: msoucy
+  twitter: msoucy93
+  coderwall: msoucy
+  hackprop0: http://msoucy.me/2014/09/advfoss-hack1/
+  commcont0: http://msoucy.me/2014/09/advfoss-cc0/
