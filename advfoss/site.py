@@ -56,6 +56,9 @@ def syllabus():
         schedule = yaml.load(schedule_yaml)
     return render_template('syllabus.mak', schedule=schedule, name='mako')
 
+@app.route('/licensewat')
+def licensewat():
+    return render_template('license-wat.mak', name='mako')
 
 def check_blog(queue, feed, name, target):
     """
