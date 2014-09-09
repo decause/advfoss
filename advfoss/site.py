@@ -86,7 +86,7 @@ def checkblogs():
 
             student_data.extend(contents)
 
-    target = datetime(2014, 2, 02)
+    target = datetime(2014, 9, 07)
     student_posts = {}
     threads = []
     results = []
