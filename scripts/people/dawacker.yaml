@@ -1,5 +1,5 @@
 - blog: http://www.dawacker.wordpress.com/
-  feed: http://dawacker.wordpress.com/tag/advfoss/
+  feed: http://dawacker.wordpress.com/tag/advfoss/feed/
   forges:
     - http://github.com/DAWacker
   irc: dawacker
