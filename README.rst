@@ -1,7 +1,7 @@
 advfoss
 ========
 
-Find us at: http://foss-advanced.rhcloud.com/
+Find us at: http://advfoss-ritigm.rhcloud.com/
 
 Wat?
 ----
