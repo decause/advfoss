@@ -4,7 +4,7 @@ course:
     place: RIT
     start: 2014-08-25
     end: 2014-12-10
-    times: "Tues & Thurs 5:00pm - 6:15pm"
+    times: "Tues &amp; Thurs 5:00pm - 6:15pm"
     course: "IGME-585"
     location: "Orange Hall (ORN)-1380"
 
