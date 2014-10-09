@@ -56,9 +56,11 @@ def syllabus():
         schedule = yaml.load(schedule_yaml)
     return render_template('syllabus.mak', schedule=schedule, name='mako')
 
+
 @app.route('/licensewat')
 def licensewat():
     return render_template('license-wat.mak', name='mako')
+
 
 def check_blog(queue, feed, name, target):
     """
@@ -113,16 +115,17 @@ def checkblogs():
 
     average = sum(student_posts.values()) / len(student_data)
 
-    assignments = ['hackprop0', 'commcont0']
+    assignments = ['hackprop0', 'commcont0', 'hack0', 'hackprop1', 'commcont2']
     target_number = int((datetime.today() - target).total_seconds() /
-                        timedelta(weeks=1).total_seconds() + 1 + len(assignments))
+                        timedelta(weeks=1).total_seconds() + 1 +
+                        len(assignments))
 
     return render_template('blogs.mak', name='mako',
                            student_data=student_data,
                            student_posts=student_posts,
                            gravatar=gravatar, average=average,
                            target_number=target_number,
-                          )
+                           )
 
 
 @app.route('/oer')
@@ -130,7 +133,8 @@ def oer():
     resources = dict()
     resources['Decks'] = os.listdir(os.path.join(base_dir, 'static', 'decks'))
     resources['Books'] = os.listdir(os.path.join(base_dir, 'static', 'books'))
-    resources['Challenges'] = os.listdir(os.path.join(base_dir, 'static', 'challenges'))
+    resources['Challenges'] = os.listdir(os.path.join(base_dir, 'static',
+                                                      'challenges'))
     resources['RaspberryPi'] = ['http://www.raspberrypi.org/help/quick-start-guide/']
 
     return render_template('oer.mak', name='mako', resources=resources)
