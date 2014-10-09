@@ -29,7 +29,7 @@
           % endfor
 
           <!--<% keys = ['hackprop1', 'hack1', 'commcont1', 'hackprop2', 'commcont2', 'commcont3', 'finalweek', 'finalpreso', 'finalpost'] %>-->
-          <% keys = ['hackprop0', 'commcont0'] %>
+          <% keys = ['hackprop0', 'commcont0', 'hack0', 'hackprop1', 'commcont2'] %>
           % for key in keys:
               % if student.get(key):
                 <li><a target="_blank" href="${student[key]}">${key}</a></li>
