@@ -1,0 +1,16 @@
+- blog: http://www.example.com/
+  feed: http://www.example.com/tag/adv-foss/rss/
+  forges:
+    - http://github.com/example
+  irc: example
+  name: I'm An Example
+  rit_dce: exa9999
+  hackprop0: http://www.example.com/adv-foss-hack-prop-0
+  commcont0: http://www.example.com/adv-foss-commcont0
+  lightingtalk0: http://www.example.com/adv-foss-lightingtalk/0
+  meetup0: http://www.example.com/adv-foss-meetup-0/
+  hackprop0: http://www.example.com/adv-foss-hack-prop-0/
+  hackprop1: http://www.example.com/adv-foss-hack-prop-1/
+  hackathon0: http://www.example.com/adv-foss-hackathon-0/
+  hackervisit0: http://www.example.com/adv-foss-hackervisit-0/
+  commcont1: http://www.example.com/adv-foss-commcont1
