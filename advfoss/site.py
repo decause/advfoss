@@ -115,7 +115,7 @@ def checkblogs():
 
     average = sum(student_posts.values()) / len(student_data)
 
-    assignments = ['hackprop0', 'commcont0', 'hack0', 'hackprop1', 'commcont1']
+    assignments = ['hackprop0', 'commcont0', 'hack0', 'hackprop1', 'commcont1', 'hack1', 'hackprop2', 'commcont2', 'hack2']
     target_number = int((datetime.today() - target).total_seconds() /
                         timedelta(weeks=1).total_seconds() + 1 +
                         len(assignments))
