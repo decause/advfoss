@@ -3,7 +3,7 @@ import urllib2
 from BeautifulSoup import BeautifulSoup
 
 # List of the default months the HFOSS course runs
-months = ["09", "10", "11", "12"]
+months = ["08", "09", "10", "11", "12"]
 
 # Scrape the whole page
 page = urllib2.urlopen("http://yacht.rit.edu/meetings/rit-foss/2014/")
@@ -68,21 +68,14 @@ for link in html:
     # List of students in the class
 
     classDict = {
-        "ArcticSphinx": [],
-        "BeruBeruFunBot": [],
-        "brush": [],
-        "ChrisKnepper": [],
-        "citruspi": [],
-        "danShumway": [],
-        "ExplosiveHippo": [],
-        "Fangy": [],
-        "h2g2guy": [],
-        "logic_error": [],
-        "mansam": [],
-        "PxlBuzzard": ["Pxl_Buzzard"],
-        "qwertos": [],
-        "raimondi1337": [],
-        "valeatory": [],
+        "rossdylan": [],
+        "Fortnight": [],
+        "Pharas": [],
+        "ajman": ['ajman1101'],
+        "loothelion": [],
+        "msoucy": [],
+        "mtubinis": [],
+        "beWhitty": [],
     }
 
     date = link.getText().split('.')[1]
